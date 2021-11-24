@@ -11,7 +11,7 @@ The output can be viewed here: [github.io/readme-pages](https://jhidding.github.
 Github repo: [github.com/jhidding/readme-pages](https://github.com/jhidding/readme-pages)
 
 ## Pandoc
-Pandoc is the Universal document converter. We can use it to convert our README file into HTML.
+Pandoc is the Universal document converter. We can use it to convert our README file into html.
 
         docker run pandoc/core pandoc --version
 
